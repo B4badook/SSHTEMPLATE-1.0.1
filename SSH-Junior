@@ -1,0 +1,49 @@
+=================COMANDS=======================
+
+
+Comands(Termux)
+
+pkg update && pkg upgrade -y
+
+pkg install wget -y
+
+pkg install python 
+
+pip install ssh-junior
+
+(0.1)
+
+=======
+
+Alpine(ios)
+
+apk update && apk upgrade
+
+apk add python3
+
+apk add py3-pip
+
+pip install ssh-junior
+
+=======
+
+Linux(Kali e Ubuntu)
+
+sudo apt update
+
+sudo apt upgrade 
+
+sudo apt install python3-pip
+
+testa:
+python3 -m pip --version
+
+pip install ssh-junior
+
+=======================================@===============
+
+
+
+
+
+
